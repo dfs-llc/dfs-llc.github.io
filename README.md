@@ -23,7 +23,7 @@
         
         
         
-        <a href="#contact">Contact</a>
+        <a href="mailto:devinefederalsolutionsllc@gmail.com">Contact</a>
         <a href="https://www.linkedin.com/company/devine-federal-solutions-llc" target="_blank">LinkedIn</a>
     </nav>
     <section id="about">
