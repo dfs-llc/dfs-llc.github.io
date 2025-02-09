@@ -34,7 +34,7 @@
     
     <section id="contact">
         <h2>Contact Us</h2>
-        <p>Email: <a href="mailto:info@devinefederalsolutions.com">info@devinefederalsolutions.com</a> | Phone: <a href="tel:+16095761113">(609) 576-1113</a></p>
+        <p>Email: <a href="mailto:devinefederalsolutionsllc@gmail.com">info@devinefederalsolutions.com</a> | Phone: <a href="tel:+16095761113">(609) 576-1113</a></p>
         <p>Address: 336 Asbury Avenue, Ocean City, New Jersey 08226</p>
     </section>
     <footer>
