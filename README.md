@@ -15,8 +15,9 @@
 </head>
 <body>
     <header>
+        <img src="https://media.licdn.com/dms/image/v2/D4E0BAQGI38Z9bxkjRw/company-logo_100_100/B4EZTo7rOgGgAI-/0/1739074745783?e=1747267200&v=beta&t=qvOn4L0wcVPM81QjAvJOfKRPMdQ_uIWutqSQ_hrEIaM" alt="Company Logo" width="100">
         <h1>Devine Federal Solutions L.L.C</h1>
-        
+        <img src="https://images.squarespace-cdn.com/content/v1/660ae20544cd3e178762912b/1724705936264-Z2CGFEA2REYVC9KH8XW6/unsplash-image-S9J1HqoL9ns.jpg?format=1500w" alt="Devine Federal Solutions Image" width="100%">
     </header>
     <nav>
         <a href="#top">Home</a>
