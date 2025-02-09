@@ -16,7 +16,7 @@
 <body>
     <header>
         <h1>Devine Federal Solutions</h1>
-        <img src="images/logo.png" alt="Devine Federal Solutions Logo" width="200">
+        <img src="download.png" alt="Devine Federal Solutions Logo" width="200">
     </header>
     <nav>
         <a href="#top">Home</a>
