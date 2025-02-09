@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Devine Federal Solutions</title>
+    <title>Devine Federal Solutions L.L.C</title>
     <style>
         body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
         header { background: #00274D; color: white; padding: 20px; text-align: center; }
@@ -15,8 +15,8 @@
 </head>
 <body>
     <header>
-        <h1>Devine Federal Solutions</h1>
-        <img src="download.png" alt="Devine Federal Solutions Logo" width="200">
+        <h1>Devine Federal Solutions L.L.C</h1>
+        
     </header>
     <nav>
         <a href="#top">Home</a>
@@ -28,7 +28,7 @@
     </nav>
     <section id="about">
         <h2>About Us</h2>
-        <p>Devine Federal Solutions is an IT & consulting company specializing in intermediary services for federal agencies. Our mission is to bridge the gap between the federal government and small businesses, facilitating the efficient and compliant execution of federal contracts while creating meaningful opportunities for smaller organizations. Devine Federal Solutions continues to be a trusted partner in the federal procurement ecosystem.</p>
+        <p>Devine Federal Solutions L.L.C is an IT & consulting company specializing in intermediary services for federal agencies. Our mission is to bridge the gap between the federal government and small businesses, facilitating the efficient and compliant execution of federal contracts while creating meaningful opportunities for smaller organizations. Devine Federal Solutions L.L.C continues to be a trusted partner in the federal procurement ecosystem.</p>
     </section>
     
     
@@ -40,7 +40,7 @@
     </section>
     <footer>
         <p>&copy; 2025 Devine Federal Solutions. All rights reserved.</p>
-        <p><a href="#subscribe">Subscribe for Updates</a></p>
+        
     </footer>
 </body>
 </html>
